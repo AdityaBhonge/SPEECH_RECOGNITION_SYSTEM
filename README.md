@@ -59,3 +59,5 @@ ChatGPT provided customized code and advice to my specific setup. For instance, 
 
 # OUTPUT:
 ![Image](https://github.com/user-attachments/assets/e39a8092-8ecb-4214-bbfb-dc92c9f89bac)
+
+video: https://github.com/user-attachments/assets/c4fe823c-f919-4b35-8bdd-0a1caa85b43c
