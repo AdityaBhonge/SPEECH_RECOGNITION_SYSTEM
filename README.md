@@ -58,3 +58,4 @@ Custom Solutions
 ChatGPT provided customized code and advice to my specific setup. For instance, it assisted me in adjusting the model parameters to make processing faster on my embedded board.
 
 # OUTPUT:
+![Image](https://github.com/user-attachments/assets/e39a8092-8ecb-4214-bbfb-dc92c9f89bac)
